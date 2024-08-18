@@ -1,0 +1,5 @@
+comandos git bash e npm:
+
+clear (limpa o terminal)
+npm install -g (nome do arquivo) ---- para instalar algo
+cleancss -o (arquivo-saida) (arquivo-entrada)
