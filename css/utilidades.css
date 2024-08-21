@@ -22,6 +22,7 @@
   font-family: "Poppins";
   font-weight: 600;
   max-width: max-content;
+  border: none;
 }
 .botao-amarelo:hover {
   background: linear-gradient(#ffb60d, #e59317);
@@ -85,4 +86,7 @@
 }
 .seta:hover::after {
   transform: translateX(4px);
+}
+.botao-2 {
+  width: 300px;
 }
